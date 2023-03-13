@@ -36,7 +36,7 @@ Click [here](https://drive.google.com/file/d/1z1lSAff_RsuIf8fo75IRZ_x1DlVrd3XF/v
 
 Below is the link to my API documentation. 
 
-Click [here](https://api.postman.com/collections/25926313-3b06c75c-37bc-4211-8de6-e8563f5bb74f?access_key=PMAT-01GVEK52GN11C8D9Q4VN8F2RK5)
+Click [here](https://documenter.getpostman.com/view/25926313/2s93JutNXX)
 
 ## Live Link
 Click [here](https://postit-vg2m.onrender.com) to see the hosted work
