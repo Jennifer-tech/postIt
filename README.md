@@ -17,21 +17,26 @@ A simple social media app. This API makes use of CRUD Operations on Users, Post 
 * Create a .env file at the root of the folder and include your DATABASE_URI and a secret_key to generate tokens in the file in the format below.
 
 > DATABASE_URI = {The DATABASE_URI you created}
+
 > SECRET = {Your secret keyword}
 
 
-*To run the solution, make sure you have nodejs installed.
+* To run the solution, make sure you have nodejs installed.
 * Use the following command in your terminal and to install the necessary dependencies
 
 > npm install
+
 > nodemon src/app
 
 ## Data Modelling
-click [here](https://drive.google.com/file/d/1z1lSAff_RsuIf8fo75IRZ_x1DlVrd3XF/view?usp=drivesdk) to view link to the Entity Relationship Diagram
+Click [here](https://drive.google.com/file/d/1z1lSAff_RsuIf8fo75IRZ_x1DlVrd3XF/view?usp=drivesdk) to view link to the Entity Relationship Diagram
 
 ## Testing Endpoints
 * Postman or other standard tools for testing is required
-Below is the link to my API documentation, Click [here]()
+
+Below is the link to my API documentation. 
+
+Click [here]()
 
 ## Live Link
-click [here]() to see the hosted work
+Click [here]() to see the hosted work
